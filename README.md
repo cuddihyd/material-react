@@ -36,4 +36,9 @@ Here are some notes on how I made it:
 4. Move over README, replace with this file.
 5. Adding `backend` folder to host a simple Python REST service.
 6. Added `proxy` entry to `package.json`.
-7. ...
+7. ...TODO: Material-UI, Demo Component, Unit-Tests, Redux, ...
+
+Roadmap
+-------
+
+[Todos](https://trello.com/b/UFAA4xkd/material-react)
